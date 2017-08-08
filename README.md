@@ -1,5 +1,6 @@
 # webpack-config-cloud9
-Webpack configuration for Cloud9 (Testing purpose only)
+Webpack configuration (React) for Cloud9
+
 For localhost configuration, please follow: https://www.tutorialspoint.com/reactjs/reactjs_environment_setup.htm
 
 The below configuration (webpack-config.js) is for Cloud9:
